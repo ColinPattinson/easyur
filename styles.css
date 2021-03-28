@@ -2,7 +2,11 @@ body {
   background-color: coral;
 }
 h1 {
-  color: azure;
+  color: FloralWhite;
+  text-align: center;
+}
+h2 {
+  color: FloralWhite;
   text-align: center;
 }
 p {
